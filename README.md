@@ -35,7 +35,7 @@ The system employs ultrasonic sensors to detect hand movements by emitting ultra
 | 5V | VCC | - |
 | GND | GND | GND |
 
-| HC-05 Bluetooth Transmitter Module| VSD Squadron Mini on Transmitter side |
+| HC-05 Bluetooth Transmitter Module| VSD Squadron Mini on Transmitter Module |
 | ------------- | ------------- |
 | TXD | PD7 |
 | RXD | PD6 |
@@ -44,7 +44,7 @@ The system employs ultrasonic sensors to detect hand movements by emitting ultra
 | GND | GND |
 
 #### Receivers Part
-| HC-05 Bluetooth Receiver Module| VSD Squadron Mini on Receiver side |
+| HC-05 Bluetooth Receiver Module| VSD Squadron Mini on Receiver Module |
 | ------------- | ------------- |
 | TXD | PD7 |
 | RXD | PD6 |
