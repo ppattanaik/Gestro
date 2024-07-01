@@ -19,7 +19,7 @@ The system employs ultrasonic sensors to detect hand movements by emitting ultra
 | 5V | VCC | - |
 | GND | GND | GND |
 
-### For Wired Product
+### For Wireless Product
 #### Transmitter Part
 | HC-SR04 Ultrasonic Sensor 1| VSD Squadron Mini |
 | ------------- | ------------- |
