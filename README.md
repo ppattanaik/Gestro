@@ -51,3 +51,14 @@ The system employs ultrasonic sensors to detect hand movements by emitting ultra
 | State | PC7 |
 | VCC | 3.3V |
 | GND | GND |
+
+## Pinout Diagram
+### Wired Product
+![Screenshot 2024-07-02 012437](https://github.com/ppattanaik/Gestro/assets/63561037/01d86492-3292-43d2-a2c8-8d2e5bcedecd)
+
+### Wireless Product
+#### Transmitter Module
+![Screenshot 2024-07-02 012521](https://github.com/ppattanaik/Gestro/assets/63561037/c3ff742f-7037-46ba-95c6-60103578b66b)
+
+#### Receiver Module
+![Screenshot 2024-07-02 012536](https://github.com/ppattanaik/Gestro/assets/63561037/06ddab72-ce73-47a4-8427-400ba97b2194)
