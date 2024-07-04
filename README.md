@@ -63,6 +63,9 @@ The system employs ultrasonic sensors to detect hand movements by emitting ultra
 #### Receiver Module
 ![Screenshot 2024-07-02 012536](https://github.com/ppattanaik/Gestro/assets/63561037/06ddab72-ce73-47a4-8427-400ba97b2194)
 
+## Demo Video of Initial Testing
+https://drive.google.com/file/d/1VSeHloKG6HW3EjwDA_6HP7rHV9mbXZ-R/view?usp=sharing
+
 ## Acknowledements
  - Kunal Ghosh, Co-Founder and Director, VSD Corp. Pvt. Ltd.
  - International Institute of Information Technology, Bangalore
