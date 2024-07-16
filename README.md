@@ -9,7 +9,8 @@ The system employs ultrasonic sensors to detect hand movements by emitting ultra
 - HC-SR04 Ultrasonic Sensor (x2) - 725 INR
 - Perfboard - 200 INR
 - Jumper Wires - 100 INR
-  Total cost - 1525 INR
+--------------------------------------------
+- Total cost - 1525 INR
 ### For Wireless (Future implementation)
 - VSD Squadron Mini (x2)
 - HC-SR04 Ultrasonic Sensor (x2)
