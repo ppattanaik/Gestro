@@ -227,7 +227,7 @@ while 1:
         
     incoming_data = "";                            # clears the data
 ```
-## Demo Video of Initial Testing
+## Demo Video
 https://drive.google.com/file/d/1VSeHloKG6HW3EjwDA_6HP7rHV9mbXZ-R/view?usp=sharing
 
 ## Acknowledements
