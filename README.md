@@ -231,6 +231,10 @@ while 1:
 ## Demo Video
 https://drive.google.com/file/d/1VSeHloKG6HW3EjwDA_6HP7rHV9mbXZ-R/view?usp=sharing
 
+## Further applications
+- Gestro can be integrated into houses, replacing traditional switches with gesture based switches.
+- Gestro can be integrated into TVs enabling gesture based control and reducing the dependency on traditional remotes.
+
 ## Acknowledements
  - Kunal Ghosh, Co-Founder and Director, VSD Corp. Pvt. Ltd.
  - International Institute of Information Technology, Bangalore
