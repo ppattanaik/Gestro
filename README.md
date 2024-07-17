@@ -68,7 +68,7 @@ The system employs ultrasonic sensors to detect hand movements by emitting ultra
 
 ## Pinout Diagram
 ### Wired Product
-![Screenshot 2024-07-02 012437](https://github.com/ppattanaik/Gestro/assets/63561037/01d86492-3292-43d2-a2c8-8d2e5bcedecd)
+<img width="666" alt="Wired" src="https://github.com/user-attachments/assets/6bc0be68-e7b0-42a3-a7ae-c3add451e5d3">
 
 ### Wireless Product (Future implementation)
 #### Transmitter Module
