@@ -228,6 +228,9 @@ while 1:
         
     incoming_data = "";                            # clears the data
 ```
+## Gestro Connections
+![20240717_001157](https://github.com/user-attachments/assets/501957a3-13c6-490f-8e52-08c7bfee43c6)
+
 ## Demo Video
 https://drive.google.com/file/d/1VSeHloKG6HW3EjwDA_6HP7rHV9mbXZ-R/view?usp=sharing
 
