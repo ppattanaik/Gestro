@@ -6,18 +6,19 @@ The system employs ultrasonic sensors to detect hand movements by emitting ultra
 ## Components Required:
 ### For Wired 
 - Arduino Uno / VSD Squadron Mini - 1179 INR
-- HC-SR04 Ultrasonic Sensor (x2) - 720 INR
+- HC-SR04 Ultrasonic Sensor (x2) - 725 INR
 - Single Strand Hookup Wire - 91 INR
 - Perfboard - 199 INR
 - Berg Strips - 304 INR
 --------------------------------------------
 - Total cost - 2493 INR
 ### For Wireless
-- VSD Squadron Mini (x2)
-- HC-SR04 Ultrasonic Sensor (x2)
-- HC-05 Bluetooth Transmitter Module (x2)
-- Perfboard
-- Jumper Wires
+- VSD Squadron Mini (x2) - 2358 INR
+- HC-SR04 Ultrasonic Sensor (x2) - 725 INR
+- HC-05 Bluetooth Transmitter Module (x2) - 720 INR
+- Single Strand Hookup Wire - 91 INR
+- Perfboard - 199 INR
+- Berg Strips - 304 INR
 ## Table for Pin Connections
 ### For Wired Product
 | HC-SR04 Ultrasonic Sensor 1| Arduino Uno |
