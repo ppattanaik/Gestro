@@ -5,13 +5,14 @@ Gestro is an innovative solution designed to transform the way users interact wi
 The system employs ultrasonic sensors to detect hand movements by emitting ultrasonic waves and measuring their reflection times, allowing for precise recognition of gestures such as swipes. A Bluetooth module enables wireless communication between Gestro and various devices, ensuring seamless integration and reliable control signals. At the heart of the system is a development board, VSD Squadron Mini/Arduino Uno, which processes sensor data and manages communication. The firmware, developed using Moun River Studio, ensures that sensor data is accurately interpreted and converted into commands for connected devices. This approach not only enhances user experience by providing a modern, touch-free interface but also promotes environmental sustainability by extending the lifespan of existing devices and reducing electronic waste. Gestro’s design focuses on user-friendly setup and customization, making it accessible for a wide range of users, including the elderly and disabled, and ideal for environments where hygiene is critical. The project delivers significant benefits, such as cost savings, improved accessibility, and enhanced convenience, positioning Gestro as a versatile and sustainable solution for modern device interaction.
 ## Components Required:
 ### For Wired 
-- Arduino Uno - 500INR
-- HC-SR04 Ultrasonic Sensor (x2) - 725 INR
-- Perfboard - 200 INR
-- Jumper Wires - 100 INR
+- Arduino Uno / VSD Squadron Mini - 1179 INR
+- HC-SR04 Ultrasonic Sensor (x2) - 720 INR
+- Single Strand Hookup Wire - 91 INR
+- Perfboard - 199 INR
+- Berg Strips - 304 INR
 --------------------------------------------
-- Total cost - 1525 INR
-### For Wireless (Future implementation)
+- Total cost - 2493 INR
+### For Wireless
 - VSD Squadron Mini (x2)
 - HC-SR04 Ultrasonic Sensor (x2)
 - HC-05 Bluetooth Transmitter Module (x2)
@@ -33,7 +34,7 @@ The system employs ultrasonic sensors to detect hand movements by emitting ultra
 | VCC | Vin |
 | GND | GND |
 
-### For Wireless Product (Future implementation)
+### For Wireless Product
 #### Transmitter Part
 | HC-SR04 Ultrasonic Sensor 1| VSD Squadron Mini |
 | ------------- | ------------- |
@@ -70,7 +71,7 @@ The system employs ultrasonic sensors to detect hand movements by emitting ultra
 ### Wired Product
 <img width="666" alt="Wired" src="https://github.com/user-attachments/assets/6bc0be68-e7b0-42a3-a7ae-c3add451e5d3">
 
-### Wireless Product (Future implementation)
+### Wireless Product
 #### Transmitter Module
 ![Screenshot 2024-07-02 012521](https://github.com/ppattanaik/Gestro/assets/63561037/c3ff742f-7037-46ba-95c6-60103578b66b)
 
